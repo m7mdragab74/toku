@@ -1,6 +1,10 @@
 # toku
 
-A new Flutter project.
+Toku is a versatile and user-friendly application designed to help users to learn Japanese effectively. With a clean interface and robust features, Toku aims to making learning Japanese easier.
+
+Features:
+-The app helps users learn Japanese through a range of categories:
+          including Numbers, Family Members, Colors, and Phrases. Each category is presented in an interactive interface, allowing users to tap on a category to explore and learn more about it
 
 ## Getting Started
 
